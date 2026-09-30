@@ -1,31 +1,16 @@
-# 📚 Books
+# Marwan's Reading Tracker
 
+A personal tracker for the books and other reading material in this collection. Every catalog item is currently marked **To read**.
 
+## Reading statuses
 
-A collection of some of the books I've read.
+- **To read** — not read yet.
+- **Reading** — currently in progress.
+- **Read** — finished.
+- **Unsure** — status not confirmed.
 
+## Catalog
 
+Browse the full list in [BOOKS.md](BOOKS.md). Repeated items appear once, with their inherited tags combined. The tags come from the upstream collection; the **Status** column tracks my reading progress.
 
-## Introduction
-
-Welcome to my "Books" repository! Here, I've curated a list of some of the books I've read over time. This is not only a personal record but also an opportunity to share book recommendations with others who share similar interests in reading.
-
-## Books
-
-You can find the list of books I've read in the [BOOKS.md](BOOKS.md) file. Each book includes a brief description and my personal thoughts or reviews. Feel free to explore and discover new reading material.
-
-
-| File Name | Path | Tag |
-|-----------|------|-----|
-
-
-
-
-## How to Use
-
-1. **Browse the Book List**: Simply navigate to the repo to explore the books I've read.
-
-2. **Contribute**: If you've read a book that's not on the list or have thoughts to share about a book I've listed, please consider contributing. Fork this repository, make your changes, and submit a pull request.
-
-3. **Recommendations**: Have a book you think I should read? Feel free to open an issue with your recommendation, and I'll consider adding it to my reading list.
-
+This repository is a personal fork of [parthnikam/books](https://github.com/parthnikam/books).
